@@ -1,0 +1,24 @@
+.login-page {
+    width: 360px;
+    padding: 8% 0 8%;
+    margin: auto;
+    
+  }
+
+.gif-page{
+  width:61%;
+  margin:auto;
+  height:250px;
+  background-image: url('https://www.technoloader.com/blog/wp-content/uploads/2019/05/jgkl-1.gif');
+}
+
+.full-page{
+  background-color: palegreen;
+}
+
+
+
+.hide-login{
+    display: none;
+}
+
